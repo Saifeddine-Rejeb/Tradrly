@@ -12,10 +12,11 @@ tags:
   - agent
   - smolagent
   - tool
-  - agent-course
 ---
 
 # Human Like Agent
+
+Challenge: Construire un modèle capable de reformuler la sortie d'un LLM pour la rendre plus "humaine"
 
 Human Like Agent is a project designed to simulate human-like interactions using advanced tools and frameworks. It leverages Gradio for its user interface and integrates various tools to enhance its functionality.
 
